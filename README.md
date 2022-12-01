@@ -5,6 +5,7 @@ Most of the small to medium business owners are making effective use of Gmail-ba
 The data has the following features:
 
 Email_ID - This column contains the email ids of individuals.
+
 Email_type - Email type contains 2 categories 1 and 2. We can assume that the types are like promotional email or sales email.
 Subject_Hotness_Score - It is the subject-line effectiveness score.
 Email_Source - It represents the source of the email like sales,marketing or product type email.
